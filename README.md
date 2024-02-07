@@ -1,0 +1,1 @@
+# CS2-config_template
